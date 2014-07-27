@@ -5,6 +5,10 @@ Javascript script for fetching content via AJAX with automatic detection of orig
 
 ## Author
 
+https://github.com/ingelity
 
-## Licence
+http://rs.linkedin.com/in/ingelity
 
+## License
+
+Available for free use.
